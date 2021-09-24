@@ -10,9 +10,11 @@
 
     <body>
         <header><?php include 'menu.html'; ?> </header>
-            
-        <h1>mon autre pageo</h1>
-        <p>Mon ici la</p>
+        
+        <div class="content">
+            <h1>mon autre pageo</h1>
+            <p>Mon ici la</p>
+        </div>
 
         <footer><?php include "footer.html"; ?> </footer>
     </body>
